@@ -29,7 +29,7 @@ Run this code into your console to install our code generator:
     npm install -g generator-ptz-graphql
 ```
 
-Create a project folder for your server and run this code and see the magic!
+Create a project folder for your server, go into it and run this code. Let's the magic begins!
 ```
     yo ptz-graphql
 ```
@@ -39,7 +39,7 @@ It is time to RUN!
     npm start
 ```
 
-[Teach me more about it](https://github.com/polutz/generator-ptz-graphql/blob/master/docs/contribute.md)
+[Teach me more about it](https://github.com/polutz/generator-ptz-graphql/blob/master/README.md)
 
 
 ## Create and run your first react frontend web app
@@ -69,7 +69,7 @@ It is time to RUN!
 
 
 
-## If you love us, Download all polutz repos
+## If you love us, Download all Polutz repos
 ```
 curl "https://api.github.com/orgs/polutz/repos?page=$PAGE&per_page=100" |
   grep -e 'git_url*' |

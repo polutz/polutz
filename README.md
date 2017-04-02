@@ -1,7 +1,7 @@
 # Polutz
 
-[pt-br](https://github.com/polutz/generator-ptz-graphql/blob/master/README.pt-br.md)
-[en-us](https://github.com/polutz/generator-ptz-graphql/blob/master/README.md)
+[pt-br](https://github.com/polutz/polutz/blob/master/README.pt-br.md)
+[en-us](https://github.com/polutz/polutz/blob/master/README.md)
 
 We help Developers create awesome, tested and fast projects,
 by creating and sharing easy reusable open source modules for any project.

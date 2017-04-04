@@ -71,8 +71,7 @@ It is time to RUN!
 
 ## If you love us, Download all Polutz repos
 ```
-curl "https://api.github.com/orgs/polutz/repos?page=$PAGE&per_page=100" |
-  grep -e 'git_url*' |
-  cut -d \" -f 4 |
-  xargs -L1 git clone
+npm install -g gh-cloneall
+gh-cloneall polutz
+  
 ```

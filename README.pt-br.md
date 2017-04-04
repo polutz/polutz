@@ -16,7 +16,7 @@ Onde você possa escolher módulos como login, relatório de usuários, permiss�
 ## Como criar o seu primeiro projeto
 
 Você possui Nodejs, Yeoman e MongoDB instalado?
-  - Não -> [Como preparar minha máquina para desenvolver?](https://github.com/polutz/polutz/blob/master/docs/setup.md)
+  - Não -> [Como preparar minha máquina para desenvolver?](https://github.com/polutz/polutz/blob/master/docs/setup.pt-br.md)
   - Sim! -> Siga em frente!
 
 

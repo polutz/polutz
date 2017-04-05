@@ -72,8 +72,15 @@ It is time to RUN!
 
 
 ## If you love us, Download all Polutz repos
+Clone all repos:
 ```
-npm install -g gh-cloneall
-gh-cloneall polutz
+    npm install -g gh-cloneall
+    gh-cloneall polutz
   
+```
+
+Update all repos:
+```
+    npm install -g git-pull-all
+    git-pull-all
 ```

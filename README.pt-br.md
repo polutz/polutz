@@ -72,9 +72,15 @@ Hora de rodar o projeto! =D
 
 
 ## Se você nos ama, baixe todos os projetos da Polutz
+Clone todos os projetos:
 ```
-curl "https://api.github.com/orgs/polutz/repos?page=$PAGE&per_page=100" |
-  grep -e 'git_url*' |
-  cut -d \" -f 4 |
-  xargs -L1 git clone
+    npm install -g gh-cloneall
+    gh-cloneall polutz
+  
+```
+
+Baixar atualizações para todos os projetos:
+```
+    npm install -g git-pull-all
+    git-pull-all
 ```
